@@ -10,7 +10,8 @@ Sebuah perusahaan bergerak di bidang rental dvd ingin mengetahui gambaran umum t
 Terdapat sebuah database yang menunjukan detail dari proses transaksi. Dari database tersebut, perusahaan ingin bisa mendapatkan insight yang dapat dijalankan, sehingga nantinya mereka dapat melakukan penerapan strategi yang tepat sasaran.
 
 Isi Notebook:
-Mengimport library dan data melalui SQL Database
+Mengkoneksikan VS Code & SQL.
+Mengimport library dan data melalui SQL Database.
 Pembersihan data dari anomali (Missing Values, Wrong Datatype, Oulier)
-Visualisasi data berdasarkan konteks bisnis
-Uji Statistik
+Visualisasi data berdasarkan konteks bisnis.
+Uji Statistik.
